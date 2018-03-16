@@ -1,6 +1,27 @@
 # Welcome to AIM-HRI 
 ### The AI for Multimodal Human Robot Interaction workshop @ the Federate AI Meeting 2018 in Stockholm
 
+Sorry for the lack of content, we're working on it!
+
+
+
+
+
+
+
+### Workshop organizers:
+- Elin A. Topp, Lund University, Sweden (Elin_Anna.Topp(at)cs.lth.se)
+- Kristiina Jokinen, AIST Tokyo, Japan
+- Laura Hiatt, Naval Research Laboratory, USA
+- Gerard Bailly, GIPSA-Lab, University of Grenoble, France
+- Bertram Malle, Brown University, USA
+- Tatsuya Kawahara, University of Kyoto, Japan 
+- Roger Moore, University of Sheffield, UK
+
+
+
+
+
 <!--- You can use the [editor on GitHub](https://github.com/aim-hri/aim-hri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Markdown
