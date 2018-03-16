@@ -1,7 +1,7 @@
 # Welcome to AIM-HRI 
-### The AI for Multimodal Human Robot Interaction workshop @ the Federate AI Meeting 2018 in Stockholm
+### The AI for Multimodal Human Robot Interaction Workshop at the Federated AI Meeting (FAIM) 2018 in Stockholm
 
-Sorry for the lack of content, we're working on it!
+Sorry for the current lack of content, we're working on it!
 
 
 
