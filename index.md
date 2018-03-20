@@ -1,13 +1,19 @@
 # Welcome to AIM-HRI 
 ### The AI for Multimodal Human Robot Interaction Workshop at the Federated AI Meeting (FAIM) 2018 in Stockholm
 
-Sorry for the current lack of content, we're working on it!
+The intersection of Artificial Intelligence (AI) and Human-Robot Interaction (HRI) has recently emerged as an intriguing technical and intellectual opportunity (e.g., in recent consecutive [AAAI Fall Symposia on AI-HRI in 2014, -15, -16, and -17](https://ai-hri.gihub.io)), and also multimodal interaction with robots (M-HRI) and specifically social signals (e.g., the 
+Interspeech satellite workshop 'Vocal Interactivity in-and-between Humans, Animals and Robots' [(VIHAR-2017)](http://vihar-2017.vihar.org) can be seen as an area within HRI that connects directly to various topics in AI. A full exploration of this intersection, however, has yet to be realized.  At the nexus of conferences in Stockholm in July 2018, with IJCAI/ECAI, AAMAS, and ICML, we will have this workshop during at least 1.5 days, aiming to integrate fundamental insights that the AI community and the HRI community have to offer each other. 
 
+We intend to frame the discussion by way of the joint statements ``HRI is an AI problem'' and ``AI is an HRI problem'' and apply this mutual dependence to a range of relevant topics, including XAI, Planning, NLP, Machine Learning, Image Analysis, Knowledge Representation, Reasoning, (Multimodal) Dialogue, Gesture- and speech recognition, and Autonomous Systems. The title expresses a focus on Multimodal Human-_Robot_ Interaction, and while we are certainly open to include perspectives from the broader area of Human-_Agent_ Interaction (HAI), our focus will be on the specific challenges that manifest themselves in the interaction with embodied agents, specifically robots, and the handling as well as generation of social signals for and emerging from this interaction.
 
+We see the topic of "social signals" as a potential focus for contributions. Social signals can here comprise the evident communicative modalities of robots and humans in direct interaction (as speech, gaze, or gesture), but it is also possible to view this term broader, including more general aspects of societal acceptance of technology, explainability and high level signals thereof.
 
+Our aim is to organise an actual _work_-shop rather than a mini-conference, with a focus on discussions around specific topics and areas, based on research area summaries and position papers. 
 
+**A call for contributions and other details will be published here shortly.**
 
-
+### Invited speakers and panelists
+TBA
 
 ### Workshop organizers:
 - Elin A. Topp, Lund University, Sweden (Elin_Anna.Topp(at)cs.lth.se)
@@ -19,7 +25,9 @@ Sorry for the current lack of content, we're working on it!
 - Roger Moore, University of Sheffield, UK
 
 
-
+### Tentative dates:
+**July 13/14 or July 14/15 2018:** The AIM-HRI workshop
+**more dates will be published soon**
 
 
 <!--- You can use the [editor on GitHub](https://github.com/aim-hri/aim-hri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
