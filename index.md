@@ -1,4 +1,4 @@
-# Welcome to AIM-HRI 
+# Welcome to AI-MHRI 
 ### The AI for Multimodal Human Robot Interaction Workshop at the Federated AI Meeting (FAIM) 2018 in Stockholm
 
 The intersection of Artificial Intelligence (AI) and Human-Robot Interaction (HRI) has recently emerged as an intriguing technical and intellectual opportunity (e.g., in recent consecutive [AAAI Fall Symposia on AI-HRI in 2014, -15, -16, and -17](https://ai-hri.gihub.io)). Multimodal interaction with robots (M-HRI), including social signals (e.g., the Interspeech satellite workshop 'Vocal Interactivity in-and-between Humans, Animals and Robots' - [VIHAR-2017](http://vihar-2017.vihar.org)), can be also seen as an area within HRI that connects directly to various topics in AI. A full exploration of this intersection, however, has yet to be realized.  The aim of this 1.5 day workshop is to integrate fundamental insights that the AI community and the HRI community have to offer each other within this context.
@@ -24,7 +24,7 @@ TBA
 
 
 ### Tentative dates:
-**July 13/14 or July 14/15 2018:** The AIM-HRI workshop
+**July 13/14 or July 14/15 2018:** The AI-MHRI workshop
 **more dates will be published soon**
 
 
