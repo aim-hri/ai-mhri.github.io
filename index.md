@@ -5,7 +5,7 @@ redirect_to: "https://ai-mhri.github.io"
 ### The AI for Multimodal Human Robot Interaction Workshop at the Federated AI Meeting (FAIM) 2018 in Stockholm
 
 You should haved been redirected to the updated workshop page, if that did not happen:
-**Please follow [this link](https://ai-mhri.github.io) to get to the updated workshop homepage!**
+**Please follow [this link](https://ai-mhri.github.io)!**
 
 <!--- You can use the [editor on GitHub](https://github.com/aim-hri/aim-hri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
