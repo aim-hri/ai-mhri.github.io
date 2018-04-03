@@ -1,5 +1,6 @@
-redirect_to:
-  - https://ai-mhri.github.io
+---
+redirect_to: "https://ai-mhri.github.io"
+---
 # Welcome to AI-MHRI 
 ### The AI for Multimodal Human Robot Interaction Workshop at the Federated AI Meeting (FAIM) 2018 in Stockholm
 
